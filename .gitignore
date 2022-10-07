@@ -1,2 +1,3 @@
 #vendor tidak usah dimasukkan ke git
 vendor/
+*.log
